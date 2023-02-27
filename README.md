@@ -1,13 +1,13 @@
 This program is a console application that generates an email report and writes it to a CSV file. The program retrieves data from an API endpoint, processes the data, and outputs the result to a file.
 
-<h1> _Requirements_ </h1>
+<h1> Requirements </h1>
 * <u>.NET 3.1 or later</u>
 * <u>RestSharp library 108.0.3 or later</u>
 * <u>Newtonsoft.Json library 13.0.2</u>
 
 * A file named EmailReport.csv in the same directory as the program (used to output the data)
 
-<h2> _How to Install_ </h2>
+<h2> How to Install </h2>
 To install the RestSharp library, run the following command in the Package Manager Console:
 
 - Install-Package RestSharp -Version X.X.X
@@ -17,7 +17,7 @@ To install the Newtonsoft.Json library, run the following command in the Package
 - Install-Package Newtonsoft.Json -Version X.X.X
 
 
-<h1> _Usage_ </h1>
+<h1> Usage </h1>
 * Open the command prompt or terminal.
 Navigate to the directory containing the executable file.
 Run the command dotnet EmailReportGenerator.dll.
