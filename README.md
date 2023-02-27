@@ -1,6 +1,7 @@
 This program is a console application that generates an email report and writes it to a CSV file. The program retrieves data from an API endpoint, processes the data, and outputs the result to a file.
 
 <h1> Requirements </h1>
+
 * <u>.NET 3.1 or later</u>
 * <u>RestSharp library 108.0.3 or later</u>
 * <u>Newtonsoft.Json library 13.0.2</u>
