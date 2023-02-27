@@ -1,8 +1,10 @@
-<h1> Follow-up Questions </h1> 
+Follow-up Questions
 
-**1.** How long, roughly, did you spend working on this project? This won’t affect your evaluation; it helps us norm our problems to our expected time to complete them.
+How long, roughly, did you spend working on this project? This won’t affect your evaluation; it helps us norm our problems to our expected time to complete them.
+
 
 Give the steps needed to deploy and run your code, written so that someone else can follow and execute them.
+
 
 What could you do to improve your code for this project if you had more time? Could you make it more efficient, easier to read, more maintainable? If it were your job to run this report monthly using your code, could it be made easier or more flexible? Give specifics where possible.
 
