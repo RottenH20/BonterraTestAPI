@@ -9,6 +9,7 @@ This program is a console application that generates an email report and writes 
 * A file named EmailReport.csv in the same directory as the program (used to output the data)
 
 <h2> How to Install </h2>
+
 To install the RestSharp library, run the following command in the Package Manager Console:
 
 - Install-Package RestSharp -Version X.X.X
