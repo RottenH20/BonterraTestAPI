@@ -64,5 +64,7 @@ The program outputs a message indicating the location of the output file when it
   
 * <u>Outline a testing plan for this report, imagining that you are handing it off to someone else to test. What did you do to test this as you developed it? What kinds of automated testing could be helpful here?</u>
   * Some automated tests that would significantly help would be for the email data. I would set up certain paramters and see what would happen if the API returned too much data. Some tests I did as I developed it was making sure no runtime errors could occur. My goal was the make the code as simple as possible, but efficient as possible.
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 - Overall I am glad with this program, I wrote it in C# as that is what I am most familiar with and Bonterra works in C#. This project was very fun to work on and I enjoy the challenge presented to me.
