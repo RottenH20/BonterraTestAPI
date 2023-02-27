@@ -47,3 +47,22 @@ To install the Newtonsoft.Json library, run the following command in the Package
 The output file is overwritten each time the program is run.
 If the output file cannot be found, the program will display an error message and exit.
 The program outputs a message indicating the location of the output file when it has completed successfully.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1> Follow-up Questions </h1>
+
+* <u>How long, roughly, did you spend working on this project? This won’t affect your evaluation; it helps us norm our problems to our expected time to complete them.<.u>
+  * I spent around 6 hours in total on the project, ~1 hour messing around with the API, ~1 hour planning on how I would write it, ~3 hours writing the code, ~1 hour with       final touches on GitHub and questions.
+
+* <u>Give the steps needed to deploy and run your code, written so that someone else can follow and execute them.</u>
+  * The steps are above to run the code.
+
+* <u>What could you do to improve your code for this project if you had more time? Could you make it more efficient, easier to read, more maintainable? If it were your job to run this report monthly using your code, could it be made easier or more flexible? Give specifics where possible.</u>
+  * Some instant things I noticed while writing the code was some fail safe checks, making sure no errors were occured during rune time and such. I believe I could make the code more efficient by saving some memory, however the memory it uses is not much. I believe this code is expandable and upgradable, I included comments to understand how the program works and hopefully the program would be easy to upkeep and mantain. One area where I believe could be better managed is getting the data from the API. I believe I made it a little bit more complicated than it needed to be.
+  
+* <u>Outline a testing plan for this report, imagining that you are handing it off to someone else to test. What did you do to test this as you developed it? What kinds of automated testing could be helpful here?</u>
+  * Some automated tests that would significantly help would be for the email data. I would set up certain paramters and see what would happen if the API returned too much data. Some tests I did as I developed it was making sure no runtime errors could occur. My goal was the make the code as simple as possible, but efficient as possible.
+  
+- Overall I am glad with this program, I wrote it in C# as that is what I am most familiar with and Bonterra works in C#. This project was very fun to work on and I enjoy the challenge presented to me.
