@@ -21,7 +21,8 @@ To install the Newtonsoft.Json library, run the following command in the Package
 
 <h1> Usage </h1>
 
-* Make sure to include password and username
+* Change username in code
+* Change password either in file, or in code
 * Run the program in your IDE
 
 <h1> Notes </h1>
