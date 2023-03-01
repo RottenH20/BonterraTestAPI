@@ -108,6 +108,9 @@ class EmailReportGenerator
 
             email.GetTopVariant(response2, resourcePath, username, password); // Gets and Sets the TopVariant in the email
         }
+        
+        // Sort array in order
+        emails.Sort((p1, p2) => p1.EmailMessageId.CompareTo(p2.EmailMessageId));
 
 
         // Step3, Output all Emails to Console
